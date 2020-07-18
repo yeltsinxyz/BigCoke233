@@ -1,7 +1,5 @@
 ### Hey 👋🏼, I'm Eltrac Koalar!
 
-<br>
-
 <a href="https://twitter.com/Eltrac233">
   <img align="left" alt="Eltrac Koalar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,7 +16,7 @@
   <img align="left" alt="Eltrac's Alipay Payment QRCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
 </a>
 
-<br>
+<br><br>
 
 Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to make some useful stuff as a Open-sourcer. I'm still a student 🏫 but love 💖 programing and the Open-Source World. I am working on [Miracles](https://github.com/BigCoke233/miracles), a decent and simple theme for [Typecho](https://typecho.org)(in Chinese) and [Artimes](https://github.com/artimes-org), a organization which is trying to "serverless-izes" everything! Besides doing Open-source things, I enjoy watching American animes, Japanese manga and listening to English hit songs. 🎶
 
