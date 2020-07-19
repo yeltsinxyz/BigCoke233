@@ -22,7 +22,7 @@
 
 Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to make some useful stuff as a Open-sourcer. I'm still a student 🏫 but love 💖 programing and the Open-Source World. I am working on [Miracles](https://github.com/BigCoke233/miracles), a decent and simple theme for [Typecho](https://typecho.org)(in Chinese) and [Artimes](https://github.com/artimes-org), a organization which is trying to "serverless-izes" everything! Besides doing Open-source things, I enjoy watching American animes, Japanese manga and listening to English hit songs. 🎶
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/rick-wink.gif" />
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/rick.gif" />
   
 ### Some Personal Information
 
@@ -31,12 +31,36 @@ Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer �
 - ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke.
 - 📚 I keep a blog in Chinese, check [it](https://guhub.cn) out!
 - 🏳️‍🌈 I'm gay, support LGBT+ and also BlackLivesMatter!
+- 
 - 📫 Get in touch with me via email:`hi@guhub.cn`, or `eltrac233@gmail.com` as a fallback.
 
-### My GitHub Status
 
-![](https://github-readme-stats.vercel.app/api?username=BigCoke233&show_icons=true&hide_border=true)
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=BigCoke233&show_icons=true">
+  
+### Top Languages
 
----
+<code><img height="20" title="No.1 JavaScript, of course." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" title="No.2 PHP, not bad." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" title="No.3 CSS, sometime make me crazy." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" title="No.4 HTML, yeah it's basic." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-inspired by [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+### What I'm Learning (or wanna learn)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+
+### My Life Motto
+
+```
+If(failure==true){
+  tears.drop();
+  mind.change(courage, confidence);
+}else{
+  personality.be(hamble);
+  heart.goOn();
+}
+```
+
+
+If you find my stuff helpful, you may consider sponsoring me via [Afdian (for Chinese)](https://afdian.net/@Eltrac) or [Open Collective (as for **Miracles**)](https://opencollective.com/miracles). Have a nice day~
